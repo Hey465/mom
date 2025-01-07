@@ -4,7 +4,7 @@
 SCRIPT_PATH="$HOME/t3rn-bot.sh"
 
 # 定义仓库地址和目录名称
-REPO_URL="https://github.com/Hey465/mom"
+REPO_URL="https://github.com/Hey465/mom/blob/main/cemom"
 DIR_NAME="cemom"
 PYTHON_FILE="keys_and_addresses.py"
 DATA_BRIDGE_FILE="data_bridge.py"
